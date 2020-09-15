@@ -44,8 +44,9 @@ While running this appliction the emulator made my computer system run drastical
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README.
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+ Add the URL to your animated app walkthough `gif`https://i.imgur.com/t98TXpQ.gifvin the image tag below, . Make sure the gif actually renders and animates when viewing this README.
+<img src="https://i.imgur.com/t98TXpQ.gifv width=250><br>
+          https://i.imgur.com/t98TXpQ.gifv
 
 ### Notes
 
